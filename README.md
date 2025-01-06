@@ -1,6 +1,6 @@
 ## 🚀 Introduction
 
-In a world where companies are scrambling to replace developers with subscription-based gimmicks like Devin ($500 / month) or ChatGPT Enterprise ($200 / month), Grifty (only 1% equity in your startup!) focuses on the other crucial parts of having a successful business, while you focus on pushing code. While others are busy trying to make LLMs hallucinate less, Grifty leverages the true potential of Large Language Models (LLMs) to **replace your CEO** with a tool that can sell ice to an Eskimo with unmatched confidence and charm.
+In a world where companies are scrambling to replace developers with subscription-based gimmicks like Devin ($500 / month) or ChatGPT Enterprise ($2,000 / month), Grifty (only 1% equity in your startup!) focuses on being the C-Suite executive while you focus on pushing code. While others are busy trying to make LLMs hallucinate less, Grifty leverages the true potential of Large Language Models (LLMs) to **replace your CEO** with a tool that can sell ice to an Eskimo with unmatched confidence and charm.
 
 ### Why Grifty?
 
@@ -14,7 +14,7 @@ LLMs are notorious for their "hallucinations," where they spit out random, somet
 
 ## 🛠️ Features
 
-- **Confident Communication:** Grifty speaks with unwavering confidence, ensuring your pitches always hit the mark.
+- **Confident Communication:** Grifty speaks with unwavering confidence, ensuring your pitches always hit the mark. Hey, it studied physics*. People will think it is smart.
 - **Deceptive Charm:** Perfect for those times when you need to sugarcoat the truth or hide inconvenient facts.
 - **Strategic Thinking:** Grifty can think and scheme behind closed doors, just like any top-tier CEO.
 - **Investor Relations:** Keeps investors happy and rolling in cash without breaking a sweat.
@@ -95,11 +95,3 @@ Why rely on flawed human CEOs when you can have a tool that never sleeps, never 
 ---
 
 *Disclaimer: Grifty is a satirical tool intended for humorous purposes. Replace your CEO at your own risk.*
-
-# Contact
-
-Have questions or feedback? Reach out to us at [contact@grifty.com](mailto:contact@grifty.com).
-
----
-
-![Grifty Banner](https://github.com/yourusername/grifty/blob/main/banner.png)
