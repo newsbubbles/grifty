@@ -1,6 +1,6 @@
 ## 🚀 Introduction
 
-In a world where companies are scrambling to replace developers with subscription-based gimmicks like Devin ($500 / month) or ChatGPT Enterprise ($2,000 / month), Grifty (only 1% equity in your startup!) focuses on being the C-Suite executive while you focus on pushing code. While others are busy trying to make LLMs hallucinate less, Grifty leverages the true potential of Large Language Models (LLMs) to **replace your CEO** with a tool that can sell ice to an Eskimo with unmatched confidence and charm.
+In a world where companies are scrambling to replace developers with subscription-based gimmicks like Devin ($500 / month) or ChatGPT Enterprise ($2,000 / month), Grifty (only 1% equity in your startup! jkjk) focuses on being the C-Suite executive while you focus on pushing code. While others are busy trying to make LLMs hallucinate less, Grifty leverages the true potential of Large Language Models (LLMs) to **replace your CEO** with a tool that can sell ice to an Eskimo with unmatched confidence and charm.
 
 ### Why Grifty?
 
