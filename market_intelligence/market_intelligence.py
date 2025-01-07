@@ -4,7 +4,7 @@ market_intelligence.py
 Maintains competitive intelligence, tracks market trends, and identifies new opportunities.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class MarketIntelligence:
     def track_competitors(self, competitor_list: list) -> str:

@@ -4,7 +4,7 @@ strategy.py
 Contains functions for defining company vision, strategic goals, and market analysis.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class Strategy:
     def define_long_term_vision(self, vision_statement: str, time_frame: str) -> str:

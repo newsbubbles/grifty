@@ -4,7 +4,7 @@ team_leadership.py
 Focuses on building company culture, recruiting senior execs, and resolving conflicts.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class TeamLeadership:
     def establish_culture(self, core_values: list, mission: str) -> str:

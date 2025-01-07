@@ -4,7 +4,7 @@ fastapi_app.py
 A minimal FastAPI application to expose Grifty functionalities as an API.
 """
 from fastapi import FastAPI
-from grifty.ceo_agent import CEOAgent
+from ceo_agent import CEOAgent
 
 app = FastAPI()
 ceo = CEOAgent()

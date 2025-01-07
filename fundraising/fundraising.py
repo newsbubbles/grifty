@@ -4,7 +4,7 @@ fundraising.py
 Handles the intricacies of raising capital, from evaluating funding options to negotiating terms.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class Fundraising:
     def evaluate_funding_options(self, current_financial_status: dict, growth_plan: dict) -> str:

@@ -4,7 +4,7 @@ performance_management.py
 Sets and tracks KPIs, monitors progress, and generates performance summaries.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class PerformanceManagement:
     def define_kpis(self, team: str, goals: str) -> str:

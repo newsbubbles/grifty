@@ -4,7 +4,7 @@ partnerships.py
 Identifies potential partners, outlines partnership proposals, and manages ongoing relationships.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class Partnerships:
     def identify_potential_partners(self, industry: str, synergy_criteria: str) -> str:

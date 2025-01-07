@@ -4,7 +4,7 @@ mergers_acquisitions.py
 Covers processes for scouting acquisition targets, due diligence, and negotiating M&A deals.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class MergersAcquisitions:
     def scout_targets(self, industry: str, criteria: str) -> str:

@@ -4,7 +4,7 @@ board_management.py
 Covers the creation of board agendas, meeting reports, and governance best practices.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class BoardManagement:
     def prepare_board_meeting_agenda(self, meeting_date: str, discussion_points: list) -> str:

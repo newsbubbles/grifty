@@ -4,7 +4,7 @@ chat.py
 A minimal stub to outline how an interactive chat interface might be built around the CEOAgent.
 """
 
-from grifty.ceo_agent import CEOAgent
+from ceo_agent import CEOAgent
 
 class CEOChatInterface:
     def __init__(self):

@@ -4,7 +4,7 @@ risk_compliance.py
 Handles identification of potential risks, compliance frameworks, and risk mitigation strategies.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class RiskCompliance:
     def identify_risks(self, operation_data: dict) -> str:

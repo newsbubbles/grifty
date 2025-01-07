@@ -4,7 +4,7 @@ investor_relations.py
 Handles communication with investors, pitch creation, and investor updates.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class InvestorRelations:
     def create_investor_pitch(self, product: str, target_audience: str) -> str:

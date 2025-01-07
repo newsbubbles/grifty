@@ -4,7 +4,7 @@ public_relations.py
 Handles media communications, press releases, and crisis management.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class PublicRelations:
     def draft_press_release(self, topic: str, details: str) -> str:

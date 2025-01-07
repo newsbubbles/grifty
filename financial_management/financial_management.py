@@ -4,7 +4,7 @@ financial_management.py
 Manages budgeting, cash flow monitoring, and resource allocation.
 """
 
-from grifty.ceo_agent import run_llm
+from ceo_agent import run_llm
 
 class FinancialManagement:
     def create_annual_budget(self, department_data: dict, revenue_forecast: dict) -> str:
